@@ -7,7 +7,7 @@ This project aims to test the skills of the students in developing a web service
 
 ### Specifications
 
-* Pick up additional two members for your team (Total of three persons/team).
+* Pick up additional two members for your team (total of three persons/team).
 * Develop a **Web Service** for masking toxic **Tagalog** & **English** comments.
 * Your team should decide what programming language  will you use (Python, Java + Groovy, C#) to develop the said Web Service.
 * The Web Service response can either be in **XML** or **JSON**.
