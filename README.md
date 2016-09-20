@@ -1,5 +1,5 @@
 # Final Project
-Final-term Project: RESTful Web Service
+Final-term Project: Web Service
 ***
 
 ### Objective
@@ -7,8 +7,8 @@ This project aims to test the skills of the students in developing a web service
 
 ### Specifications
 
-* Pick up additional four members for your team.
-* Develop a **RESTful Web Service** for masking toxic **Tagalog** & **English** comments.
+* Pick up additional two members for your team (Total of three persons/team).
+* Develop a **Web Service** for masking toxic **Tagalog** & **English** comments.
 * Your team should decide what programming language  will you use (Python, Java + Groovy, C#) to develop the said Web Service.
 * The Web Service response can either be in **XML** or **JSON**.
 * Adding a Responsive Web App that can utilize the Web Service is a plus. Please take note that this Web Service can also be used by Social Networking Sites and Massively Multiplayer Online Games for filtering out toxic messages from their users.
