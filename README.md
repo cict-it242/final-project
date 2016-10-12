@@ -25,6 +25,9 @@ This project aims to test the skills of the students in developing a web service
 | [user_3] "You're nothing more than a common slut!" | ```<processed>You're ******* more than a common ****!</processed>``` |
 | [bonus] "sakalinte. kamango cniu man? dipota! bilatse!" | ```{"masked":" *********. ******* cniu man? ******! *******!"}``` |
 
+### Deadline
+Submit your project on or before October 24, 2016 via email (mjsolidarios@wvsu.edu.ph). Send it as a zip/rar file that includes the name of your group members in the ABOUT.txt file.
+
 ### Grading
 
 | Criterion | Description | Percentage |
